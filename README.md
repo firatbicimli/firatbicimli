@@ -1,5 +1,6 @@
-Hi 👋, I'm Fırat
-A passionate frontend developer from Turkey
+                                                     Hi 👋, I'm Fırat
+                                       A passionate frontend developer from Turkey
+
 🌱 I’m currently and always learning JavaScript
 
 📫 How to reach me firatbicimli@gmail.com
