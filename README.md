@@ -1,9 +1,11 @@
-- 👋 Hi, I’m @firatbicimli
-- 👀 I’m interested in frontend
-- 🌱 I’m currently learning Html,Css,JavaScript
+Hi 👋, I'm Fırat
+A passionate frontend developer from Turkey
+🌱 I’m currently and always learning JavaScript
 
+📫 How to reach me firatbicimli@gmail.com
 
-<!---
-firatbicimli/firatbicimli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Connect with me:
+https://www.linkedin.com/in/firatbicimli10/
+
+Languages and Tools:
+css3 git html5 javascript react sass sketch
